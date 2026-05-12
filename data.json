@@ -54,7 +54,21 @@
                 },
                 {
                  "name": "Kristina Stojkova",
-                 "godinaNaRaganje" : 1978
+                 "godinaNaRaganje" : 1978,
+                  "deca": [
+                    {
+                      "name": "Ilija Stojkov",
+                      "godinaNaRaganje" : 2010
+                    },
+                    {
+                      "name": "Pavle Stojkov",
+                      "godinaNaRaganje" : 2010
+                    },
+                    {
+                      "name": "Vasilij Stojkov",
+                      "godinaNaRaganje" : 2010
+                    }
+                  ]
                 }
               ]
             },
