@@ -4,7 +4,37 @@
   "deca" : [
     {
       "name": "Trifun",
-      "godinaNaRaganje" : 1890
+      "godinaNaRaganje" : 1890,
+      "deca": [
+        {
+          "name": "Mone",
+          "godinaNaRaganje" : 1915
+        },
+        {
+          "name": "Metodi",
+          "godinaNaRaganje" : 1917
+        },
+        {
+          "name": "Koco" ,
+          "godinaNaRaganje" : 1918
+        },
+        {
+          "name": "Janko",
+          "godinaNaRaganje" : 1919
+        },
+        {
+          "name": "Stojka",
+          "godinaNaRaganje" : 1920
+        },
+        {
+          "name": "Jovan",
+          "godinaNaRaganje" : 1921     
+        },
+        {
+          "name": "Stevan",
+          "godinaNaRaganje" : 1923
+        }
+      ]
     },
     {
       "name": "Eftim",
