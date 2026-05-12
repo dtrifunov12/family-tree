@@ -36,7 +36,27 @@
           "deca": [
             {
               "name": "Dragi Trifunov",
-              "godinaNaRaganje" : 1948
+              "godinaNaRaganje" : 1948,
+              "deca": [
+                {
+                 "name": "Dimche Trifunov",
+                 "godinaNaRaganje" : 1974,
+                  "deca":[
+                    {
+                      "name": "Dragana Trifunova",
+                      "godinaNaRaganje" : 2003
+                    },
+                    {
+                      "name": "Snezhana Trifunova",
+                      "godinaNaRaganje" : 2007
+                    }
+                  ]
+                },
+                {
+                 "name": "Kristina Stojkova",
+                 "godinaNaRaganje" : 1978
+                }
+              ]
             },
             {
               "name": "Milka Manasieva",
