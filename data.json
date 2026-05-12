@@ -86,7 +86,29 @@
     },
     {
       "name": "Eftim",
-      "godinaNaRaganje" : 1892
+      "godinaNaRaganje" : 1892,
+      "deca":[
+        {
+          "name": "Ignat",
+          "godinaNaRaganje" : 1917
+        },
+        {
+          "name": "Atanas",
+          "godinaNaRaganje" : 1918
+        },
+        {
+          "name": "Ampo",
+          "godinaNaRaganje" : 1919
+        },
+        {
+          "name": "Sande",
+          "godinaNaRaganje" : 1920
+        },
+        {
+          "name": "Gigo",
+          "godinaNaRaganje" : 1921
+        }
+      ]
     }
     
   ]
