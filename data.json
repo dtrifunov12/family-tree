@@ -32,7 +32,21 @@
         },
         {
           "name": "Stevan",
-          "godinaNaRaganje" : 1923
+          "godinaNaRaganje" : 1923,
+          "deca": [
+            {
+              "name": "Dragi Trifunov",
+              "godinaNaRaganje" : 1948
+            },
+            {
+              "name": "Milka Manasieva",
+              "godinaNaRaganje" : 1950
+            },
+            {
+              "name": "Blagojco Trifunov",
+              "godinaNaRaganje" : 1952
+            }
+          ]
         }
       ]
     },
